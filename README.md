@@ -1,7 +1,6 @@
 
   # Haihua Web
-
-  This is a code bundle for haihua Web. The original project is available at https://www.figma.com/design/RrtLucWkee4up6T73ryDQ9/Romantic-Single-Page-Web.
+This is a code bundle for haihua Web. The original project is available at https://www.figma.com/design/RrtLucWkee4up6T73ryDQ9/Romantic-Single-Page-Web.
 
   ## Running the code
 
